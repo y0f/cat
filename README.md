@@ -1,1 +1,1 @@
-АnnоyingSitе fork with tiny modifications to be extra irritating.
+АnnоyingSitе fork with modifications to be extra irritating.
